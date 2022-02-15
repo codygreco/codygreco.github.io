@@ -21,34 +21,34 @@ One large issue with computer science is that students may not see how it applie
 	-	Committing code
 
 2. Introduction to Jupyter notebooks
-	a. Creating a notebook
-	b. Magic Commands
-	c. Command line from the notebook
+	-	Creating a notebook
+	-	Magic Commands
+	-	Command line from the notebook
 
 3.  Introduction to the command line
-	a. Creating, removing directories
-	b. Moving through file system
-	c. Creating removing files
-	d. Editing files with vi
+	-	Creating, removing directories
+	-	Moving through file system
+	-	Creating removing files
+	-	Editing files with vi
 
 4. Introduction to python
-	a. Print statements
-	b. Conditionals
-	c. Loops
+	-	Print statements
+	-	Conditionals
+	-	Loops
     
 5. Data types and structures
-	a. Integers, floats, strings, booleans
-	b. Dictionaries, lists, sets, tuples
+	-	Integers, floats, strings, booleans
+	-	Dictionaries, lists, sets, tuples
 
 6. Functions
 
 7. Classes
     
 8.  Pandas overview
-	a. Plotting
-	b. Summarizing data
-	c. Filtering data
+	-	Plotting
+	-	Summarizing data
+	-	Filtering data
 
 9.  Self selected data project
-	a.  Students will select a dataset and present their findings
-	b.  I will provide a dataset and ask them to present their findings
+	-	Students will select a dataset and present their findings
+	-	I will provide a dataset and ask them to present their findings
