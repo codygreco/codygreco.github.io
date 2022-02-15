@@ -11,14 +11,14 @@ One large issue with computer science is that students may not see how it applie
 
 -	Teach version control through the utilization of Github.  
 -	To teach basic fundamentals of programming and to give exposure to data types and data structures
--   To teach data analysis through the pandas api
--   Most importantly to try to provide motivation and  and increase resilience
+-	To teach data analysis through the pandas api
+-	Most importantly to try to provide motivation and  and increase resilience
 
 ### Course content:
 1. Introduction to git
-	a. Creating a GitHub account
-	b. Cloning and forking repositories
-	c. Committing code
+	-	Creating a GitHub account
+	-	Cloning and forking repositories
+	-	Committing code
 
 2. Introduction to Jupyter notebooks
 	a. Creating a notebook
